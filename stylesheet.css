@@ -1,0 +1,61 @@
+div{
+  display: inline;
+}
+
+.box{
+  padding: .0125vw;
+  height: 25vh;
+  width: 2vw;
+}
+
+.step1{
+  background-color: #b34242;
+}
+
+.step2{
+  background-color: #b24242;
+}
+
+.step3{
+  background-color: #b0405f;
+}
+
+.step4{
+  background-color: #ad3f7b;
+}
+
+.step5{
+  background-color: #aa3d96;
+}
+
+.step6{
+  background-color: #9d3ca7;
+}
+
+.step7{
+  background-color: #7d3aa4;
+}
+
+.step8{
+  background-color: #5e39a1;
+}
+
+.step9{
+  background-color: #40389e;
+}
+
+.step10{
+  background-color: #36499b;
+}
+
+.step11{
+  background-color: #356398;
+}
+
+.step12{
+  background-color: #347b96;
+}
+
+.step13{
+  background-color: #347c96;
+}
