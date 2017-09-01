@@ -8,6 +8,10 @@ div{
   top: calc(50%-1rem);
 }
 
+.centering{
+  width: 100vw;
+}
+
 .box{
   padding: .05vw;
   height: 50vh;
