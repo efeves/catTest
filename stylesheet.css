@@ -1,6 +1,11 @@
+bg{
+
+}
+
 div{
   display: inline-table;
-  margin: auto;
+  position: relative;
+  top: calc(50%-1rem)
 }
 
 .box{
