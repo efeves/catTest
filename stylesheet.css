@@ -2,16 +2,12 @@ body{
   background-color: #e4e3df;
 }
 
-div{
-  display: inline-table;
-  position: relative;
-  
-}
-
 .box{
   padding: .05vw;
   height: 50vh;
   width: 2vw;
+  display: inline-table;
+  position: relative;
 }
 
 .step1{
@@ -64,12 +60,4 @@ div{
 
 .step13{
   background-color: #347c96;
-}
-
-.rotate90{
-   webkit-transform: rotate(90deg);
-   moz-transform: rotate(90deg);
-   o-transform: rotate(90deg);
-   ms-transform: rotate(90deg);
-   transform: rotate(90deg);
 }
