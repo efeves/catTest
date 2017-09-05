@@ -4,8 +4,8 @@ body{
 
 div{
   display: inline-table;
-  position: absolute;
-  top: calc(50vh-1em);
+  position: relative;
+  
 }
 
 .box{
