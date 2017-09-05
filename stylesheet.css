@@ -2,6 +2,11 @@ body{
   background-color: #e4e3df;
 }
 
+div{
+  padding-top: 30vh;
+  padding-bottom: 30vh;
+}
+
 .box{
   padding: .05vw;
   height: 50vh;
