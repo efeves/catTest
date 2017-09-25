@@ -10,7 +10,7 @@ div{
 .box{
   padding: .05vw;
   height: 50vh;
-  width: 2vw;
+  width: 1.5vw;
   display: inline-table;
   position: relative;
 }
