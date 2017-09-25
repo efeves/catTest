@@ -5,8 +5,8 @@ body{
 div{
   padding-top: 25vh;
   padding-bottom: 25vh;
-  padding-left: 36.675 vw;
-  padding-right: 36.675 vw;
+  padding-left: 36.675vw;
+  padding-right: 36.675vw;
 }
 
 .box{
@@ -69,6 +69,6 @@ div{
 }
 
 img{
-  height: 50 vh;
+  height: 50vh;
   width: 45%;
 }
