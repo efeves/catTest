@@ -5,12 +5,14 @@ body{
 div{
   padding-top: 25vh;
   padding-bottom: 25vh;
+  padding-left: 36.675 vw;
+  padding-right: 36.675 vw;
 }
 
 .box{
   padding: .05vw;
   height: 50vh;
-  width: 1.5vw;
+  width: 2vw;
   display: inline-table;
 }
 
